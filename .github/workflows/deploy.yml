@@ -29,7 +29,7 @@ steps:
 
   - name: Build
     run: |
-      npm run build:github
+      npm run build
 
   - name: Deploy
     uses: JamesIves/github-pages-deploy-action@v4
