@@ -1,10 +1,8 @@
 name: React CI
-
 on:
   push:
     branches:
       - master
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,7 +10,6 @@ jobs:
     strategy:
       matrix:
         node-version: [16.x]
-
 steps:
   - uses: actions/checkout@v3
 
