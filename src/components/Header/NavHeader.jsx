@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 export default function NavHeader({ isToggle }) {
-  const [items, setItems] = useState([
+  const [items] = useState([
     {
       link: "/",
       name: "Home",

@@ -3,7 +3,7 @@ import ProductCard from "./ProcdctCard";
 import "./_main.scss";
 
 export default function Main() {
-  const [items, setItems] = useState([
+  const [items] = useState([
     {
       id: 1,
       title: "Forbes Self Made T-Shirt",
