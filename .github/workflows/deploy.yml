@@ -29,9 +29,9 @@ jobs:
         run: |
           npm run build
 
-			- name: Moving files
-				run: |
-					mv /home/anastasiiasok/build /home/anastasiiasok/my-app/myapp
+      - name: Moving files
+        run: |
+          mv /home/anastasiiasok/build /home/anastasiiasok/my-app/myapp
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
