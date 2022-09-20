@@ -29,6 +29,14 @@ jobs:
         run: |
           npm run build
 
+      - name: ls
+        run: |
+          ls -la
+
+      - name: pwd
+        run: |
+          pwd
+
       - name: Moving files
         run: |
           mv /home/anastasiiasok/build /home/anastasiiasok/my-app/myapp
