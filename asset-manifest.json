@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anastasiiasok.github.io/my-app/static/css/main.f24ac66b.css",
-    "main.js": "/anastasiiasok.github.io/my-app/static/js/main.447ace41.js",
-    "static/js/787.28cb0dcd.chunk.js": "/anastasiiasok.github.io/my-app/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/anastasiiasok.github.io/my-app/index.html",
-    "main.f24ac66b.css.map": "/anastasiiasok.github.io/my-app/static/css/main.f24ac66b.css.map",
-    "main.447ace41.js.map": "/anastasiiasok.github.io/my-app/static/js/main.447ace41.js.map",
-    "787.28cb0dcd.chunk.js.map": "/anastasiiasok.github.io/my-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/my-app/static/css/main.f24ac66b.css",
+    "main.js": "/my-app/static/js/main.38eda1b2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/my-app/index.html",
+    "main.f24ac66b.css.map": "/my-app/static/css/main.f24ac66b.css.map",
+    "main.38eda1b2.js.map": "/my-app/static/js/main.38eda1b2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f24ac66b.css",
-    "static/js/main.447ace41.js"
+    "static/js/main.38eda1b2.js"
   ]
 }
